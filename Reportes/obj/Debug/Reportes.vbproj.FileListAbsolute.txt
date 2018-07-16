@@ -166,3 +166,37 @@ C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con 
 C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\Reportes\obj\Debug\Reportes.vbproj.CopyComplete
 C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\Reportes\obj\Debug\Reportes.dll
 C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\Reportes\obj\Debug\Reportes.pdb
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\bin\Debug\Reportes.dll.config
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\bin\Debug\Reportes.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\bin\Debug\Reportes.pdb
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\bin\Debug\businessEntities.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\bin\Debug\CrystalDecisions.Shared.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\bin\Debug\FlashControlV71.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\bin\Debug\itextsharp.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\bin\Debug\ThoughtWorks.QRCode.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\bin\Debug\ShockwaveFlashObjects.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\bin\Debug\stdole.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\bin\Debug\businessEntities.pdb
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\obj\Debug\Reportes.vbprojAssemblyReference.cache
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\obj\Debug\Reportes.FrmRepMaestro.resources
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\obj\Debug\Reportes.Resources.resources
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\obj\Debug\Reportes.vbproj.GenerateResource.cache
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\obj\Debug\Reportes.vbproj.CoreCompileInputs.cache
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\obj\Debug\Reportes.vbproj.CopyComplete
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\obj\Debug\Reportes.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\Reportes\obj\Debug\Reportes.pdb

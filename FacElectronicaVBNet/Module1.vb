@@ -395,7 +395,7 @@ Module Module1
                 Dim mesajito_sunat = "COD:" & dictionaryEnv.Item("cod_sunat") & "-MENSAJE:" & dictionaryEnv.Item("msj_sunat")
                 'Sql = "UPDATE cja_documento SET(cod_hash,cod_sunat,msg_sunat) = ('" & dictionaryEnv.Item("hash_cpe") & "','" & dictionaryEnv.Item("hash_cdr") & "','" & dictionaryEnv.Item("msj_sunat") & "') WHERE id=" & SqlDR2("id")
                 Sql = "UPDATE cja_documento SET(cod_hash,cod_sunat,msg_sunat) = ('" & dictionaryEnv.Item("hash_cdr") & "','" & dictionaryEnv.Item("hash_cpe") & "','" & mesajito_sunat & "') WHERE id=" & SqlDR2("id")
-
+                'hola esto es  una prueva para  git hub  desde  mi sistema de facturacion
                 RunSQL(Sql)
             End If
 

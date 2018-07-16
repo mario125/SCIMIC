@@ -86,3 +86,16 @@ C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con 
 C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CrearXML\obj\Debug\CrearXML.dll
 C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CrearXML\obj\Debug\CrearXML.xml
 C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CrearXML\obj\Debug\CrearXML.pdb
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\CrearXML\bin\Debug\CrearXML.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\CrearXML\bin\Debug\CrearXML.pdb
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\CrearXML\bin\Debug\CrearXML.xml
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\CrearXML\bin\Debug\businessEntities.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\CrearXML\bin\Debug\businessEntities.pdb
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\CrearXML\obj\Debug\CrearXML.vbprojAssemblyReference.cache
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\CrearXML\obj\Debug\CrearXML.Resources.resources
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\CrearXML\obj\Debug\CrearXML.vbproj.GenerateResource.cache
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\CrearXML\obj\Debug\CrearXML.vbproj.CoreCompileInputs.cache
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\CrearXML\obj\Debug\CrearXML.vbproj.CopyComplete
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\CrearXML\obj\Debug\CrearXML.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\CrearXML\obj\Debug\CrearXML.xml
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\CrearXML\obj\Debug\CrearXML.pdb

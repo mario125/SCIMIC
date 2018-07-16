@@ -77,3 +77,15 @@ C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con 
 C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CPEEnvio\obj\Debug\CPEEnvio.dll
 C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CPEEnvio\obj\Debug\CPEEnvio.xml
 C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CPEEnvio\obj\Debug\CPEEnvio.pdb
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\CPEEnvio\bin\Debug\CPEEnvio.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\CPEEnvio\bin\Debug\CPEEnvio.pdb
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\CPEEnvio\bin\Debug\CPEEnvio.xml
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\CPEEnvio\obj\Debug\CPEEnvio.vbprojAssemblyReference.cache
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.cache
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CoreCompileInputs.cache
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CopyComplete
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\CPEEnvio\obj\Debug\CPEEnvio.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\CPEEnvio\obj\Debug\CPEEnvio.xml
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\CPEEnvio\obj\Debug\CPEEnvio.pdb
