@@ -1,0 +1,79 @@
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.dll
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.pdb
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.xml
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.vbprojResolveAssemblyReference.cache
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.Cache
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CoreCompileInputs.cache
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.dll
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.xml
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.pdb
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.dll
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.pdb
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.xml
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.vbprojResolveAssemblyReference.cache
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.cache
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CoreCompileInputs.cache
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CopyComplete
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.dll
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.xml
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.pdb
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.Cache
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.xml
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.pdb
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.pdb
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.xml
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.vbprojResolveAssemblyReference.cache
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.pdb
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.xml
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.cache
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CoreCompileInputs.cache
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CopyComplete
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.xml
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.pdb
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.vbprojAssemblyReference.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.xml
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.vbprojAssemblyReference.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CoreCompileInputs.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CopyComplete
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.xml
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.xml
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CoreCompileInputs.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CopyComplete
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.xml
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CPEEnvio\bin\Debug\CPEEnvio.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CPEEnvio\bin\Debug\CPEEnvio.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CPEEnvio\bin\Debug\CPEEnvio.xml
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CoreCompileInputs.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CopyComplete
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CPEEnvio\obj\Debug\CPEEnvio.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CPEEnvio\obj\Debug\CPEEnvio.xml
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CPEEnvio\obj\Debug\CPEEnvio.pdb

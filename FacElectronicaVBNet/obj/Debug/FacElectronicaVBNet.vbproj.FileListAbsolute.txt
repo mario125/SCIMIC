@@ -1,0 +1,303 @@
+C:\Users\developer2\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.vbprojResolveAssemblyReference.cache
+C:\Users\developer2\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.Form1.resources
+C:\Users\developer2\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.Resources.resources
+C:\Users\developer2\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.vbproj.GenerateResource.Cache
+C:\Users\developer2\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.vbproj.CoreCompileInputs.cache
+C:\Users\developer2\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\FacElectronicaVBNet.exe
+C:\Users\developer2\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\FacElectronicaVBNet.pdb
+C:\Users\developer2\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\FacElectronicaVBNet.xml
+C:\Users\developer2\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\businessEntities.dll
+C:\Users\developer2\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\Signature.dll
+C:\Users\developer2\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\businessEntities.pdb
+C:\Users\developer2\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\Signature.pdb
+C:\Users\developer2\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.exe
+C:\Users\developer2\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.xml
+C:\Users\developer2\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.pdb
+C:\Users\developer2\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\FacElectronicaVBNet.exe.config
+C:\Users\developer2\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CPEEnvio.dll
+C:\Users\developer2\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrearXML.dll
+C:\Users\developer2\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CPEEnvio.pdb
+C:\Users\developer2\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CPEEnvio.xml
+C:\Users\developer2\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CPEEnvio.dll.config
+C:\Users\developer2\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrearXML.pdb
+C:\Users\developer2\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrearXML.xml
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\FacElectronicaVBNet.exe.config
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\FacElectronicaVBNet.exe
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\FacElectronicaVBNet.pdb
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\FacElectronicaVBNet.xml
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\businessEntities.dll
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CPEEnvio.dll
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrearXML.dll
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\Signature.dll
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\businessEntities.pdb
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CPEEnvio.pdb
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CPEEnvio.xml
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CPEEnvio.dll.config
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrearXML.pdb
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrearXML.xml
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\Signature.pdb
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.vbprojResolveAssemblyReference.cache
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.Form1.resources
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.Resources.resources
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.vbproj.GenerateResource.cache
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.vbproj.CoreCompileInputs.cache
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.vbproj.CopyComplete
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.exe
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.xml
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.pdb
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.TestCpe.resources
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.FrmProducto.resources
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\FacElectronicaVBNet.exe.config
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\FacElectronicaVBNet.exe
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\FacElectronicaVBNet.pdb
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\FacElectronicaVBNet.xml
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\businessEntities.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CPEEnvio.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrearXML.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\Signature.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\businessEntities.pdb
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CPEEnvio.pdb
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CPEEnvio.xml
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CPEEnvio.dll.config
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrearXML.pdb
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrearXML.xml
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\Signature.pdb
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.vbprojResolveAssemblyReference.cache
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.Form1.resources
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.FrmProducto.resources
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.Resources.resources
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.TestCpe.resources
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.vbproj.GenerateResource.Cache
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.exe
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.xml
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.pdb
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.FrmTestResumen.resources
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\Reportes.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\itextsharp.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\ThoughtWorks.QRCode.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.Shared.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\FlashControlV71.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\stdole.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\ShockwaveFlashObjects.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\Reportes.pdb
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\Reportes.dll.config
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.vbprojAssemblyReference.cache
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.Form1.resources
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.FrmProducto.resources
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.FrmTestResumen.resources
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.Resources.resources
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.TestCpe.resources
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.vbproj.GenerateResource.cache
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.exe
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.xml
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.pdb
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\FacElectronicaVBNet.exe.config
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\FacElectronicaVBNet.exe
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\FacElectronicaVBNet.pdb
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\FacElectronicaVBNet.xml
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\businessEntities.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CPEEnvio.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrearXML.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\Reportes.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\Signature.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\itextsharp.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\FlashControlV71.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\stdole.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\businessEntities.pdb
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CPEEnvio.pdb
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CPEEnvio.xml
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CPEEnvio.dll.config
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrearXML.pdb
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrearXML.xml
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\Reportes.pdb
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\Reportes.dll.config
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\Signature.pdb
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.vbproj.CoreCompileInputs.cache
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.vbproj.CopyComplete
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\FacElectronicaVBNet.exe.config
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\FacElectronicaVBNet.exe
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\FacElectronicaVBNet.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\FacElectronicaVBNet.xml
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\businessEntities.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CPEEnvio.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrearXML.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\Reportes.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\Signature.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\itextsharp.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\FlashControlV71.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\stdole.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\businessEntities.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CPEEnvio.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CPEEnvio.xml
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CPEEnvio.dll.config
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrearXML.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrearXML.xml
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\Reportes.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\Reportes.dll.config
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\Signature.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.vbprojAssemblyReference.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.Form1.resources
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.FrmProducto.resources
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.FrmTestResumen.resources
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.Resources.resources
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.TestCpe.resources
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.vbproj.GenerateResource.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.vbproj.CoreCompileInputs.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.vbproj.CopyComplete
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.exe
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.xml
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.SCIMIC.resources
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\FacElectronicaVBNet.exe.config
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\FacElectronicaVBNet.exe
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\FacElectronicaVBNet.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\FacElectronicaVBNet.xml
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\businessEntities.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CPEEnvio.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrearXML.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\Reportes.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\Signature.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\itextsharp.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\FlashControlV71.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\stdole.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\businessEntities.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CPEEnvio.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CPEEnvio.xml
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CPEEnvio.dll.config
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrearXML.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\CrearXML.xml
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\Reportes.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\Reportes.dll.config
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\bin\Debug\Signature.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.vbprojAssemblyReference.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.FrmProducto.resources
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.FrmTestResumen.resources
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.INICIO.resources
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.Resources.resources
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.NOTIFICACIONES.resources
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.vbproj.GenerateResource.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.vbproj.CoreCompileInputs.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.vbproj.CopyComplete
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.exe
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.xml
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\FacElectronicaVBNet.exe.config
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\FacElectronicaVBNet.exe
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\FacElectronicaVBNet.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\FacElectronicaVBNet.xml
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\businessEntities.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\CPEEnvio.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\CrearXML.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\Reportes.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\Signature.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\itextsharp.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\FlashControlV71.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\stdole.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\businessEntities.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\CPEEnvio.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\CPEEnvio.xml
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\CPEEnvio.dll.config
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\CrearXML.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\CrearXML.xml
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\Reportes.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\Reportes.dll.config
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\bin\Debug\Signature.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.vbprojAssemblyReference.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.FrmProducto.resources
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.FrmTestResumen.resources
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.INICIO.resources
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.Resources.resources
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.NOTIFICACIONES.resources
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.vbproj.GenerateResource.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.vbproj.CoreCompileInputs.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.vbproj.CopyComplete
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.exe
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.xml
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\FacElectronicaVBNet\obj\Debug\FacElectronicaVBNet.pdb

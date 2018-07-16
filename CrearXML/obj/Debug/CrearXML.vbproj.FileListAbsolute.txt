@@ -1,0 +1,88 @@
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CrearXML\bin\Debug\CrearXML.dll
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CrearXML\bin\Debug\CrearXML.pdb
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CrearXML\bin\Debug\CrearXML.xml
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CrearXML\bin\Debug\businessEntities.dll
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CrearXML\bin\Debug\businessEntities.pdb
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.vbprojResolveAssemblyReference.cache
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.Resources.resources
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.vbproj.GenerateResource.Cache
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.vbproj.CoreCompileInputs.cache
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.dll
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.xml
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.pdb
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CrearXML\bin\Debug\CrearXML.dll
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CrearXML\bin\Debug\CrearXML.pdb
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CrearXML\bin\Debug\CrearXML.xml
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CrearXML\bin\Debug\businessEntities.dll
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CrearXML\bin\Debug\businessEntities.pdb
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.vbprojResolveAssemblyReference.cache
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.Resources.resources
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.vbproj.GenerateResource.cache
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.vbproj.CoreCompileInputs.cache
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.vbproj.CopyComplete
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.dll
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.xml
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.pdb
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.vbprojResolveAssemblyReference.cache
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.Resources.resources
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.vbproj.GenerateResource.Cache
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.xml
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.pdb
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CrearXML\bin\Debug\CrearXML.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CrearXML\bin\Debug\CrearXML.pdb
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CrearXML\bin\Debug\CrearXML.xml
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CrearXML\bin\Debug\businessEntities.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CrearXML\bin\Debug\businessEntities.pdb
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\CrearXML\bin\Debug\CrearXML.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\CrearXML\bin\Debug\CrearXML.pdb
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\CrearXML\bin\Debug\CrearXML.xml
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\CrearXML\bin\Debug\businessEntities.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\CrearXML\bin\Debug\businessEntities.pdb
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.vbprojAssemblyReference.cache
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.Resources.resources
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.vbproj.GenerateResource.cache
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.vbproj.CoreCompileInputs.cache
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.vbproj.CopyComplete
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.xml
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\CrearXML\bin\Debug\CrearXML.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\CrearXML\bin\Debug\CrearXML.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\CrearXML\bin\Debug\CrearXML.xml
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\CrearXML\bin\Debug\businessEntities.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\CrearXML\bin\Debug\businessEntities.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.vbprojAssemblyReference.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.Resources.resources
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.vbproj.GenerateResource.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.vbproj.CoreCompileInputs.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.vbproj.CopyComplete
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.xml
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\CrearXML\bin\Debug\CrearXML.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\CrearXML\bin\Debug\CrearXML.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\CrearXML\bin\Debug\CrearXML.xml
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\CrearXML\bin\Debug\businessEntities.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\CrearXML\bin\Debug\businessEntities.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.vbprojAssemblyReference.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.Resources.resources
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.vbproj.GenerateResource.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.vbproj.CoreCompileInputs.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.vbproj.CopyComplete
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.xml
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\CrearXML\obj\Debug\CrearXML.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CrearXML\bin\Debug\CrearXML.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CrearXML\bin\Debug\CrearXML.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CrearXML\bin\Debug\CrearXML.xml
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CrearXML\bin\Debug\businessEntities.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CrearXML\bin\Debug\businessEntities.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CrearXML\obj\Debug\CrearXML.vbprojAssemblyReference.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CrearXML\obj\Debug\CrearXML.Resources.resources
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CrearXML\obj\Debug\CrearXML.vbproj.GenerateResource.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CrearXML\obj\Debug\CrearXML.vbproj.CoreCompileInputs.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CrearXML\obj\Debug\CrearXML.vbproj.CopyComplete
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CrearXML\obj\Debug\CrearXML.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CrearXML\obj\Debug\CrearXML.xml
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CrearXML\obj\Debug\CrearXML.pdb
