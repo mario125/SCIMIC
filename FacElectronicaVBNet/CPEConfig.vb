@@ -57,7 +57,7 @@ Public Class CPEConfig
             'Dim RptPDF As New RT.Metodos
             CPE.HASH_CPE = objRespuesta.DigestValue
             CPE.RUTA_CODIGO_BARRA = "D:\\CPE\\CODIGOBARRA\\" & nomARCHIVO & ".BMP"
-            CPE.RUTA_PDF = "D:\\CPE\\BETA\\" & nomARCHIVO & ".PDF"
+            CPE.RUTA_PDF = "D:\\CPE\\PRODUCCION\\" & nomARCHIVO & ".PDF"
             CPE.RUTA_PDF_2_NUVE = "D:\\CPE\\NUVE\\" & nomBRE_AR_NUVE & ".PDF"
             RptPDF.TraerReporteComprobante(CPE)
             '====================enviamos documento a la sunat=========================

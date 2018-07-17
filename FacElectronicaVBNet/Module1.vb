@@ -312,15 +312,15 @@ Module Module1
             objCPE.CODIGO_PAIS_EMPRESA = "PE"
             objCPE.RAZON_SOCIAL_EMPRESA = SqlDR("empresa").ToString        '"JOSE LUIS ZAMBRANO YACHA"
             '/_____________________________________ DATOS DE LA RUC__________________/'
-            objCPE.USUARIO_SOL_EMPRESA = "ANDREA01"
-            objCPE.PASS_SOL_EMPRESA = "SCIMIC2016"
-            objCPE.CONTRA_FIRMA = "4jtHwXupPzHAutKD"
+            objCPE.USUARIO_SOL_EMPRESA = SqlDR("usuario_sol")              'objCPE.USUARIO_SOL_EMPRESA = "ANDREA01"
+            objCPE.PASS_SOL_EMPRESA = SqlDR("pass_sol")                    'objCPE.PASS_SOL_EMPRESA = "SCIMIC2016"
+            objCPE.CONTRA_FIRMA = SqlDR("contra_firma")                    'objCPE.CONTRA_FIRMA = "4jtHwXupPzHAutKD"
             objCPE.TIPO_PROCESO = 1 '1=PRODUCCION, 2=HOMOLOGACION, 3=BETA  ______________________________CAMBIAR  AQUI_____
         End While
 
         cmd2.Connection = Connection
         cmd2.CommandType = CommandType.Text
-        Sql = "SELECT cja_documento.id, fe_serie.serie, cja_documento.de_num, cja_documento.fecha, emp_empresa.ruc, emp_empresa.empresa, emp_empresa.direccion, emp_empresa.provincia, cja_documento.cod_hash, cja_documento.cod_sunat, cja_documento.msg_sunat, cja_documento.monto_me, cja_documento.igv, cja_documento.prod_id, fe_tipo_doc.codigo AS tipo_comp, cja_moneda.abrev AS moneda, emp_tipo_doc.codigo as tipo_doc FROM cja_documento LEFT OUTER JOIN fe_serie ON (cja_documento.de_serie = fe_serie.id) LEFT OUTER JOIN emp_empresa ON (cja_documento.empresa = emp_empresa.id) INNER JOIN fe_tipo_doc ON (fe_serie.tipo_doc = fe_tipo_doc.id) LEFT OUTER JOIN cja_moneda ON (cja_documento.moneda = cja_moneda.id) LEFT OUTER JOIN emp_tipo_doc ON (emp_empresa.tipo_doc = emp_tipo_doc.id) WHERE cja_documento.de_num > 0 AND cja_documento.cod_hash IS NULL OR   cja_documento.cod_hash =''"
+        Sql = "SELECT cja_documento.id, fe_serie.serie, cja_documento.de_num, cja_documento.fecha, emp_empresa.ruc, emp_empresa.empresa, emp_empresa.direccion, emp_empresa.provincia, cja_documento.cod_hash, cja_documento.cod_sunat, cja_documento.msg_sunat, cja_documento.monto_me, cja_documento.igv, cja_documento.prod_id, fe_tipo_doc.codigo AS tipo_comp, cja_moneda.abrev AS moneda, emp_tipo_doc.codigo as tipo_doc FROM cja_documento LEFT OUTER JOIN fe_serie ON (cja_documento.de_serie = fe_serie.id) LEFT OUTER JOIN emp_empresa ON (cja_documento.empresa = emp_empresa.id) INNER JOIN fe_tipo_doc ON (fe_serie.tipo_doc = fe_tipo_doc.id) LEFT OUTER JOIN cja_moneda ON (cja_documento.moneda = cja_moneda.id) LEFT OUTER JOIN emp_tipo_doc ON (emp_empresa.tipo_doc = emp_tipo_doc.id) WHERE cja_documento.de_num > 0 AND cja_documento.cod_hash IS NULL "
         cmd2.CommandText = Sql '"Select * from emp_empresa where id=1"
         SqlDR2 = cmd2.ExecuteReader()
         While SqlDR2.Read()
@@ -392,12 +392,19 @@ Module Module1
             'INICIO.notifi(100, SqlDR2("id"), dictionaryEnv.Item("msj_sunat"), ToolTipIcon.Info, Color.White, Color.White, Color.Tomato)
             MessageBox.Show(dictionaryEnv.Item("cod_sunat") + "_______" + dictionaryEnv.Item("msj_sunat"))
             If dictionaryEnv.Item("cod_sunat") = "0" Then
-                ' Sql = "UPDATE cja_documento SET (cod_hash,cod_sunat,msg_sunat) = ('" & dictionaryEnv.Item("hash_cpe") & "','" & dictionaryEnv.Item("hash_cdr") & "','" & dictionaryEnv.Item("cod_sunat") & " - " & dictionaryEnv.Item("msj_sunat") & "') WHERE id=" & SqlDR2("id").ToString
                 Dim mesajito_sunat = "COD:" & dictionaryEnv.Item("cod_sunat") & "-MENSAJE:" & dictionaryEnv.Item("msj_sunat")
                 'Sql = "UPDATE cja_documento SET(cod_hash,cod_sunat,msg_sunat) = ('" & dictionaryEnv.Item("hash_cpe") & "','" & dictionaryEnv.Item("hash_cdr") & "','" & dictionaryEnv.Item("msj_sunat") & "') WHERE id=" & SqlDR2("id")
                 Sql = "UPDATE cja_documento SET(cod_hash,cod_sunat,msg_sunat) = ('" & dictionaryEnv.Item("hash_cdr") & "','" & dictionaryEnv.Item("hash_cpe") & "','" & mesajito_sunat & "') WHERE id=" & SqlDR2("id")
                 'hola esto es  una prueva para  git hub  desde  mi sistema de facturacion
                 RunSQL(Sql)
+                'Else
+                'INICIO.notifi(100, SqlDR2("id"), dictionaryEnv.Item("msj_sunat"), ToolTipIcon.Error, Color.White, Color.White, Color.Tomato)
+                'Dim mesajito_sunat = "COD:" & dictionaryEnv.Item("cod_sunat") & "-MENSAJE:" & dictionaryEnv.Item("msj_sunat")
+
+                'Sql = "UPDATE cja_documento SET(cod_sunat,msg_sunat) = ('" & dictionaryEnv.Item("hash_cpe") & "','" & mesajito_sunat & "') WHERE id=" & SqlDR2("id")
+
+                'RunSQL(Sql)
+
             End If
 
         End While
