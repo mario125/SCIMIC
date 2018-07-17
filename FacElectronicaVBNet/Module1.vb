@@ -310,10 +310,11 @@ Module Module1
             objCPE.PROVINCIA_EMPRESA = SqlDR("provincia").ToString '"LIMA"
             objCPE.DISTRITO_EMPRESA = SqlDR("distrito").ToString '"LIMA"
             objCPE.CODIGO_PAIS_EMPRESA = "PE"
-            objCPE.RAZON_SOCIAL_EMPRESA = SqlDR("empresa").ToString '"JOSE LUIS ZAMBRANO YACHA"
-            objCPE.USUARIO_SOL_EMPRESA = "ANDREA01" 'SqlDR("usuario_sol").ToString '"MODDATOS"
-            objCPE.PASS_SOL_EMPRESA = "SCIMIC2016" 'SqlDR("pass_sol").ToString '"moddatos"
-            objCPE.CONTRA_FIRMA = "4jtHwXupPzHAutKD" '"yZ9JDZTzesye" 'SqlDR("contra_firma").ToString '"123456"
+            objCPE.RAZON_SOCIAL_EMPRESA = SqlDR("empresa").ToString        '"JOSE LUIS ZAMBRANO YACHA"
+            '/_____________________________________ DATOS DE LA RUC__________________/'
+            objCPE.USUARIO_SOL_EMPRESA = "ANDREA01"
+            objCPE.PASS_SOL_EMPRESA = "SCIMIC2016"
+            objCPE.CONTRA_FIRMA = "4jtHwXupPzHAutKD"
             objCPE.TIPO_PROCESO = 1 '1=PRODUCCION, 2=HOMOLOGACION, 3=BETA  ______________________________CAMBIAR  AQUI_____
         End While
 
