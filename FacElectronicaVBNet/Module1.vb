@@ -295,7 +295,7 @@ Module Module1
 
 
 
-        MessageBox.Show("holas")
+        'MessageBox.Show("holas")
         Sql = "SELECT emp_empresa.ruc, emp_empresa.telefono,emp_empresa.empresa, emp_empresa.ubigeo, emp_empresa.direccion, emp_empresa.departamento, emp_empresa.provincia, emp_empresa.distrito, emp_empresa.nombrec, emp_empresa.usuario_sol, emp_empresa.pass_sol, emp_empresa.contra_firma FROM emp_empresa where  emp_ppal=true"
         cmd.CommandText = Sql '"Select * from emp_empresa where id=1"
         SqlDR = cmd.ExecuteReader()
@@ -397,13 +397,13 @@ Module Module1
                 Sql = "UPDATE cja_documento SET(cod_hash,cod_sunat,msg_sunat) = ('" & dictionaryEnv.Item("hash_cdr") & "','" & dictionaryEnv.Item("hash_cpe") & "','" & mesajito_sunat & "') WHERE id=" & SqlDR2("id")
                 'hola esto es  una prueva para  git hub  desde  mi sistema de facturacion
                 RunSQL(Sql)
-                'Else
-                'INICIO.notifi(100, SqlDR2("id"), dictionaryEnv.Item("msj_sunat"), ToolTipIcon.Error, Color.White, Color.White, Color.Tomato)
-                'Dim mesajito_sunat = "COD:" & dictionaryEnv.Item("cod_sunat") & "-MENSAJE:" & dictionaryEnv.Item("msj_sunat")
+            Else
+                INICIO.notifi(100, SqlDR2("id"), dictionaryEnv.Item("msj_sunat"), ToolTipIcon.Error, Color.White, Color.White, Color.Tomato)
+                Dim mesajito_sunat = "COD:" & dictionaryEnv.Item("cod_sunat") & "-MENSAJE:" & dictionaryEnv.Item("msj_sunat")
 
-                'Sql = "UPDATE cja_documento SET(cod_sunat,msg_sunat) = ('" & dictionaryEnv.Item("hash_cpe") & "','" & mesajito_sunat & "') WHERE id=" & SqlDR2("id")
+                Sql = "UPDATE cja_documento SET(cod_hash,msg_sunat) = ('DOCUMENTO CON ERROR...!!!','" & mesajito_sunat & "') WHERE id=" & SqlDR2("id")
 
-                'RunSQL(Sql)
+                RunSQL(Sql)
 
             End If
 

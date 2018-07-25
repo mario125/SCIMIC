@@ -61,7 +61,7 @@ Public Class CPEConfig
             CPE.RUTA_PDF_2_NUVE = "D:\\CPE\\NUVE\\" & nomBRE_AR_NUVE & ".PDF"
             RptPDF.TraerReporteComprobante(CPE)
             '====================enviamos documento a la sunat=========================
-            dictionary = objENV.Envio(CPE.NRO_DOCUMENTO_EMPRESA, CPE.USUARIO_SOL_EMPRESA, CPE.PASS_SOL_EMPRESA, nomARCHIVO, ruta, url, objRespuesta.DigestValue)
+            'dictionary = objENV.Envio(CPE.NRO_DOCUMENTO_EMPRESA, CPE.USUARIO_SOL_EMPRESA, CPE.PASS_SOL_EMPRESA, nomARCHIVO, ruta, url, objRespuesta.DigestValue)
         End If
         If (CPE.TIPO_PROCESO = 2) Then
             '===================configuracion de rutas===================
